@@ -1,0 +1,7 @@
+{
+  "name": "Mindful Friction - Accountability & Stakes",
+  "description": "Calm, intentional screen-time friction with social accountability, escrow stakes, and mindful pause interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
